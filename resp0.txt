@@ -1,0 +1,51 @@
+    1  pwd
+    2  ls
+    3  cd Desktop/
+    4  git clone https://github.com/IIC2115/Syllabus.git
+    5  cd Syllabus/
+    6  ls
+    7  git add *
+    8  git commit -m "Se sube el lab0"
+    9  cd Desktop/
+   10  cd Syllabus
+   11  cd C:\Users\Jose Luis Casanova\Documents\UNIVERSIDAD\1-2019_UC\IIC2115 Programación Como Herramienta para la Ingeniería
+   12  cd C:\Users\Jose Luis Casanova\Documents\UNIVERSIDAD\1-2019_UC
+   13  cd Documents/UNIVERSIDAD/1-2019_UC/
+   14  cd IIC2115 Programación Como Herramienta para la Ingeniería
+   15  git clone https://github.com/IIC2115/Syllabus.git
+   16  cd Syllabus/
+   17  git clone https://github.com/jlcasanova2/L0/
+   18  git clone https://github.com/jlcasanova2/L0/
+   19  git add *
+   20  git commit -m "Se sube archivo-texto.txt"
+   21  git config --global user.email "jlcasanova@uc.cl"
+   22  git config --global user.name "jlcasanova2"
+   23  git commit -m "Se sube archivo-texto.txt"
+   24  git push
+   25  git clone https://github.com/jlcasanova2/L0.git
+   26  git push
+   27  git clone https://github.com/jlcasanova2/L0.git
+   28  cd L0/
+   29  git add *
+   30  git commit -m "Subir 2"
+   31  git push
+   32  cd Documentos/
+   33  cd Documents/
+   34  cd UNIVERSIDAD/1-2019_UC/
+   35  git clone https://github.com/IIC2115/Syllabus
+   36  git clone https://github.com/jlcasanova2/L0.git
+   37  cd L0/
+   38  git add *
+   39  git commit "Se subió archivo-texto.txt"
+   40  git commit -m "Se subió archivo.texto.txt"
+   41  git push
+   42  doskey/History
+   43  doskey /History
+   44  doskey History/
+   45  doskey /History
+   46  /History
+   47  doskey/History
+   48  doskey /history
+   49  doskey
+   50  /history
+   51  history
